@@ -1,0 +1,56 @@
+﻿
+.BGLigtBurst
+{
+    background-image:url(Images/LightBurst.png);
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+.BGSplash
+{
+    background-image:url(Images/Splash.png);
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+.BGWords
+{
+    background-image:url(Images/Words.png);
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+.BGFAQ
+{
+    background-image:url(Images/WallFAQ.png);
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+.BGUltimate
+{
+    background-image:url(Images/WallUltimate.png);
+    background-position:top;
+    background-repeat:no-repeat;
+}
+
+.BGWave
+{
+    background-image:url(Images/WallWave.png);
+    background-position:bottom right;
+    background-repeat:no-repeat;
+}
+
+.BGFilm
+{
+    background-image:url(Images/WallFilm.png);
+    background-position:top right;
+    background-repeat:no-repeat;
+}
+
+.BGStu1
+{
+    background-image:url(Images/WallStu.png);
+    background-position:top;
+    background-repeat:no-repeat;
+}

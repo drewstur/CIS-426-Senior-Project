@@ -1,0 +1,42 @@
+    $username = ""; 
+    $password = ""; 
+    $host = "localhost"; 
+    $dbname = ""; 
+
+    $sql = "INSERT INTO alumni(firstname,
+            lastname,
+            degree,
+            email,
+            usrtele,
+            address,
+            city,
+            state,
+            zipcode,
+            gradstatus) VALUES (
+            :firstname, 
+            :lastname, 
+            :degree, 
+            :email, 
+            :urstele,
+            :address,
+            :city,
+            :state,
+            :zipcode,
+            :gradstatus)";
+                                          
+$stmt = $pdo->prepare($sql);
+                                              
+$stmt->bindParam(':firstname', $_POST['firstname'], PDO::PARAM_STR);       
+$stmt->bindParam(':lastname', $_POST['lastname'], PDO::PARAM_STR); 
+$stmt->bindParam(':degree', $_POST['degree'], PDO::PARAM_STR);
+// use PARAM_STR although a number  
+$stmt->bindParam(':email', $_POST['email'], PDO::PARAM_STR); 
+$stmt->bindParam(':usrtele', $_POST['usrtele'], PDO::PARAM_STR);
+$stmt->bindParam(':usrtele', $_POST['usrtele'], PDO::PARAM_STR);
+$stmt->bindParam(':address', $_POST['address'], PDO::PARAM_STR);
+$stmt->bindParam(':city', $_POST['city'], PDO::PARAM_STR);    
+$stmt->bindParam(':state', $_POST['state'], PDO::PARAM_STR); 
+$stmt->bindParam(':zipcode', $_POST['zipcode'], PDO::PARAM_STR); 
+$stmt->bindParam(':gradstatus', $_POST['gradstatus'], PDO::PARAM_STR);                                       
+$stmt->execute(); 
+?>

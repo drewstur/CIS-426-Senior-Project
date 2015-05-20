@@ -1,0 +1,174 @@
+﻿.H1Black, .H1Black a
+{
+    font-size:large;
+    color:Black;
+    padding-bottom:4px;
+}
+
+.H1White, .H1White a
+{
+    font-size:large;
+    color:white;
+    padding-bottom:4px;
+}
+.H2Black, .H2Black a
+{
+    font-size: medium;
+    color:Black;
+    padding-bottom:4px;
+}
+.H2BlackBold, .H2BlackBold a
+{
+    font-size: medium;
+    color:Black;
+    font-weight:bold;
+    padding-bottom:4px;
+}
+.H2White, .H2White a
+{
+    font-size: medium;
+    color:white;
+    padding-bottom:4px;
+}
+.H2WhiteBold, .H2WhiteBold a
+{
+    font-size: medium;
+    color:white;
+    font-weight:bold;
+    padding-bottom:4px; 
+}
+.H2RedBold, .H2RedBold a
+{
+    color:#990000;
+    padding-bottom:4px;
+    font-size:medium;
+    font-weight:bold;
+}
+.H2Brown, .H2Brown a
+{
+    font-size: medium;
+    color:#A66232;
+    padding-bottom:4px;
+}
+.H2BrownBold, .H2BrownBold a
+{
+    color:#A66232;
+    padding-bottom:4px;
+    font-size:medium;
+    font-weight:bold;
+}
+.H2BlueBold, .H2BlueBold a
+{
+    color:#385FA5;
+    padding-bottom:4px;
+    font-size:medium;
+    font-weight:bold;
+}
+.H3Black, .H3Black a
+{
+    font-size: small;
+    color:Black;
+    padding-bottom:4px;
+}
+.H3LightGray, .H3LightGray a
+{
+    font-size: small;
+    color:#dddddd;
+    padding-bottom:4px;
+}
+.H3DarkGray, .H3DarkGray a
+{
+    font-size: small;
+    color:#333333;
+    padding-bottom:4px;
+}
+
+.H3White, .H3White a
+{
+    font-size: small;
+    color:White;
+    padding-bottom:4px;
+}
+.H3WhiteBold, .H3WhiteBold a
+{
+    color:White;
+    padding-bottom:4px;
+    font-size:small;
+    font-weight:bold;
+}
+.H3RedBold, .H3RedBold a
+{
+    color:#990000;
+    padding-bottom:4px;
+    font-size:small;
+    font-weight:bold;
+}
+.H3DarkRedBold, .H3DarkRedBold a
+{
+    color:#550000;
+    padding-bottom:4px;
+    font-size:small;
+    font-weight:bold;
+}
+.H3BlackBold, .H3BlackBold a
+{
+    color:Black;
+    padding-bottom:4px;
+    font-size:small;
+    font-weight:bold;
+}
+.H3DarkBrownBold, .H3DarkBrownBold a
+{
+    font-size: small;
+    color:#8C6232;
+    padding-bottom:4px;
+    font-weight:bold;
+}
+.H4RedBold, .H4RedBold a
+{
+    color:#990000;
+    padding-bottom:4px;
+    font-size:11px;
+    font-weight:bold;
+}
+.H4Black, .H4Black a
+{
+    color:Black;
+    font-size:11px;
+    padding-bottom:8px;
+}
+.H4Gray, .H4Gray a
+{
+    color:#777777;
+    font-size: 11px;
+    padding-bottom:8px;
+}
+
+.RedLink a
+{
+    color:#990000;
+    text-decoration:none;
+}
+
+.RedLink a:hover
+{
+    color:#990000;
+    text-decoration:underline;
+}
+
+.GrayLink a
+{
+    color:White;
+    text-decoration:none;
+}
+
+.GrayLink a:hover
+{
+    color:White;
+    text-decoration:underline;
+}
+
+.DisplayName
+{
+    font-weight:bold;
+}

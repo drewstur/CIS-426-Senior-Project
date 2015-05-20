@@ -1,0 +1,335 @@
+﻿body
+{
+    font-family: Verdana, Tahoma, "Nimbus Sans L" , arial, sans-serif;
+    margin: 0px;
+    text-align: center;
+    text-align: -moz-center;
+    line-height: 110%; /*background:url(Images/BodyBG.png) no-repeat top left;*/
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+td
+{
+    vertical-align: top;
+}
+
+#TopBar
+{
+    background-image: url("Images/TopBarBG.png");
+    height: 40px;
+    background-repeat: repeat-x;
+}
+#BigOne
+{
+    width: 1000px;
+    margin: auto;
+    text-align: left;
+}
+
+
+#Footer
+{
+    color: #A37B2C;
+    background-color: Black;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+#NavList a
+{
+    color: White;
+    padding-right: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#NavList a:hover
+{
+    color: #FFCC00;
+}
+
+#LogoPurdue
+{
+    position: absolute;
+    top: 5px;
+}
+#HeaderIS
+{
+    /*padding-top:15px;*/ /*background-color:#CC9900;*/
+}
+
+
+
+#Left
+{
+    width: 240px;
+}
+#Right
+{
+    float: right;
+    width: 740px;
+    padding-top: 5px;
+}
+
+#DepInfo
+{
+    float: right; /*border:#D3B469 solid 1px;*/
+    margin-left: 4px;
+}
+
+.MenuWrapper
+{
+    width: 100%;
+    margin-top: 0px;
+    padding-top: 0px;
+    background-color: #E4CE9E; /*background-image:url(Images/BarGray.png);*/ /*background-position:bottom;*/ /*background-repeat:repeat-x;*/ /*border:#4C738C 1px solid;*/
+}
+
+.StaticMenuItemStyle, .StaticMenuItemStyle a
+{
+    color: Black;
+    width: 226px;
+    margin: 1px 7px 1px 7px;
+    background-color: #D6B165;
+    font-size: small; /*font-weight:bold;*/
+    text-decoration: none;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    padding-right: 4px;
+}
+
+
+.StaticHoverStyle, .StaticHoverStyle a
+{
+    background-color: White;
+    color: Black;
+    text-decoration: none;
+}
+
+.StaticSelectedStyle, .StaticSelectedStyle a
+{
+    /*background-color:White;*/
+    color: #EEEEEE;
+}
+
+.DynamicMenuStyle
+{
+    /*margin:0px;*/
+    background-color: white;
+    z-index: 1;
+    border: #999999 solid 1px;
+}
+
+.DynamicMenuItemStyle
+{
+    font-size: 12px;
+    color: #111111;
+    padding: 4px 6px 4px 4px;
+}
+
+.DynamicHoverStyle, .DynamicHoverStyle a
+{
+    background-color: #999999;
+    text-decoration: none;
+}
+
+#MapPath
+{
+    font-size: xx-small;
+    background-color: #F1EED8;
+    padding-left: 5px;
+    margin-bottom: 2px; /*padding:5px;*/
+}
+
+
+.ListGreen ul
+{
+    margin: 0px;
+    padding-left: 0px;
+    background-color: #CCCC99;
+}
+.ListGreen li
+{
+    color: #555555;
+    font-size: smaller;
+    text-decoration: none;
+    list-style-type: none;
+    border-bottom: solid black 1px;
+    padding-bottom: 2px;
+    padding-top: 4px;
+    padding-left: 10px;
+}
+.ListGreen a
+{
+    text-decoration: none;
+    color: #555555;
+    font-size: smaller;
+}
+.ListGreen a:hover
+{
+    color: White;
+}
+
+
+
+
+
+.HRMidGray
+{
+    color: #999999;
+    background-color: #999999;
+    border: 0;
+    height: 1px;
+}
+.HRDarkGray
+{
+    color: #333333;
+    background-color: #333333;
+    border: 0;
+    height: 1px;
+}
+
+.HRDarkRed
+{
+    color: #990000;
+    background-color: #990000;
+    border: 0;
+    height: 1px;
+}
+
+.HRDarkBrown
+{
+    color: #8C6232;
+    background-color: #8C6232;
+    border: 0;
+    height: 1px;
+}
+
+.TwoCol
+{
+    float: left;
+    width: 360px; /*margin-top:10px;     margin-bottom:10px;*/
+}
+
+.ExtraNode
+{
+    padding: 5px 0px 5px 0px;
+    width: 100%;
+    background-color: #A37B2C;
+    border-top: #E2CA81 solid 1px;
+    border-bottom: #E2CA81 solid 2px;
+    text-indent: 5px;
+}
+
+.ExtraNode a
+{
+    color: White;
+}
+
+.TreeMenuWrapper
+{
+    background-color: #F5F5F5;
+    font-size: small;
+}
+.NodeStyle
+{
+    vertical-align: middle; /*padding-top:4px;     padding-bottom:4px;*/
+    height: 29px;
+    width: 100%;
+}
+.RootNodeStyle
+{
+    background-color: #A37B2C;
+    border-top: #E2CA81 solid 1px;
+    border-bottom: #E2CA81 solid 2px;
+    color: White;
+    text-indent: 5px;
+}
+.RootNodeStyle a:hover
+{
+    color: Black;
+    text-decoration: none;
+}
+.LeafNodeStyle
+{
+    background-color: #F5F5F5;
+    color: Black;
+    text-indent: 5px;
+}
+.LeafNodeStyle a:hover
+{
+    color: #A37B2C;
+    text-decoration: none;
+}
+/*
+.RootNodeStyle a:hover
+{
+    text-decoration:underline;
+}
+*/
+
+
+.SelectedNodeStyle
+{
+    color: #990000;
+}
+/*
+.SelectedNodeStyle a
+{
+    padding-left:8px;
+}*/
+
+.StaticMenuLevel1
+{
+    background-color: #A37B2C;
+    border-top: #E2CA81 solid 1px;
+    border-bottom: #E2CA81 solid 2px;
+    color: White;
+    font-size: small;
+    text-indent: 5px;
+    padding-top: 4px;
+    padding-left:5px;
+    height: 29px;
+}
+.StaticMenuLevel1 a:hover
+{
+    color: Black;
+    text-decoration: none;
+}
+.StaticMenuLevel2
+{
+    background-color: #F5F5F5;
+    color: Black;
+    font-size: small;
+    padding-left: 15px;
+    padding-top: 4px;
+    height: 29px;
+    border-bottom:#aaaaaa 1px solid;
+}
+.StaticMenuLevel2 a:hover
+{
+    color: #A37B2C;
+    text-decoration: none;
+}
+
+.Clear
+{
+    clear: both;
+}
+
+
+.ContactGreen a
+{
+    text-decoration: none;
+    color: #678C13;
+}

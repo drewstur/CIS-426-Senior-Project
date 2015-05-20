@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mysql_c",
+				"mysql_connect"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"hsla()"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: s",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/Project/Offcial Documents/website code/web forms/alumni.php",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/Project/Offcial Documents/website code/web forms/issa.php",
+		"/C/Users/DrewDesktop/Desktop/todolist.txt",
+		"/C/Users/DrewDesktop/Google Drive/Java course games/A_Snakes_G2146853142009/@PSC_ReadMe_6306_2.txt",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 263/homeworks/FaberDrewMiniLab08/StudentTestBall.java",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/Project/Offcial Documents/DBInfo",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/web forms/issa.php",
+		"/F/torent/Windows 8.1 AIO 24in1 with Update x64 en-US Jul2014/Win81-pkeys.txt",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/web forms/alumni.php",
+		"/C/Users/DrewDesktop/Google Drive/crowntheking/common.php",
+		"/C/Users/DrewDesktop/Google Drive/crowntheking/private.php",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/web forms/alumni",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/web forms/sftp-config.json",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/Project/Offcial Documents/Alumni Page.vsdx",
+		"/C/Users/DrewDesktop/Google Drive/things i need to do.txt",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 426/web forms/alumni.html",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 341/week 5-6/processfeedback.php",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 341/week 7 -8/mathfunctions.php",
+		"/C/Users/DrewDesktop/Desktop/things i need to do.txt",
+		"/C/Users/DrewDesktop/Downloads/ISSA Form.txt",
+		"/C/Users/DrewDesktop/Google Drive/Fall 2014/CIS 341/week 5-6/feedback.html",
+		"/C/Users/DrewDesktop/Google Drive/2021_galaxy/2021_galaxy/css/coda-slider.css",
+		"/C/Users/DrewDesktop/Google Drive/2021_galaxy/2021_galaxy/index.html",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/css/stylesheet.css",
+		"/C/Users/DrewDesktop/Google Drive/vieworders2.php",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/index.php",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/common.php",
+		"/C/Users/DrewDesktop/Google Drive/random-login-form/index.html",
+		"/C/Users/DrewDesktop/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/C/Users/DrewDesktop/Google Drive/2021_galaxy/2021_galaxy/js/coda-slider.js",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/Hover-master.zip",
+		"/C/Users/DrewDesktop/Google Drive/crowntheking/createchar.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/create_character.php",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/private.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/index.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/register.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/prefs.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/Sajax.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/register_complete.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/menu.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/global.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/game_1.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/import/structure.sql",
+		"/C/Users/DrewDesktop/Google Drive/phaos/player_info.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/RACE_SPECIALS.txt",
+		"/C/Users/DrewDesktop/Google Drive/phaos/items.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/who.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/inn.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/header.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/aup.php",
+		"/C/Users/DrewDesktop/Google Drive/phaos/character.php",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/register.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week 5-6/processfeedback.php",
+		"/E/Source/Chapter04/processfeedback_v2.php",
+		"/E/Source/Chapter04/processfeedback.php",
+		"/E/Source/Chapter05/header.php",
+		"/C/inetpub/wwwroot/phpinfo.php",
+		"/C/Users/DrewDesktop/Desktop/teamspeak3-server_win64/infroooo.txt",
+		"/C/Users/DrewDesktop/Desktop/phaos/import/data_2.sql",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/logout.php",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/edit_account.php",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/memberlist.php",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/Hover-master/Hover-master/css/hover.css",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/css/crap",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/login.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/import/structure.sql",
+		"/C/Users/DrewDesktop/Desktop/phaos/import/data_18.sql",
+		"/C/Users/DrewDesktop/Desktop/phaos/index.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/header.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/config.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/all_users.php",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/css/stylesheet",
+		"/C/Users/DrewDesktop/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/C/Users/DrewDesktop/AppData/Roaming/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+		"/C/Users/DrewDesktop/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/sftp-config.json",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/drewsfun_crowntheking database info",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/memberlist",
+		"/C/Users/DrewDesktop/Dropbox/crowntheking/edit_account",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week 4/vieworders2.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week 4/vieworders.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week 4/each.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week 4/bobs_front_page.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week3/processorder.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week 4/instructions.txt",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 263/assignment/MiniLab04_1.txt",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week3/sftp-config.json",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week3/orderform.html",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week3/vieworders.php",
+		"/E/Source/Chapter02/processorder.php",
+		"/E/Source/Chapter02/vieworders.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/week3/ftp",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/Week1/processorder.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/Week1/orderform.html",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/week2.txt",
+		"/C/Users/DrewDesktop/AppData/Local/Temp/Rar$DIa0.341/DFaberLab07.cpp",
+		"/C/Users/DrewDesktop/AppData/Local/Temp/Rar$DIa0.682/DFaberLab05.cpp",
+		"/C/Users/DrewDesktop/AppData/Local/Temp/Rar$DIa0.979/DFaberLab15.cpp",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/index.php",
+		"/C/Users/DrewDesktop/Downloads/Project2010(x64)/Project2010(x64)/key.txt",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/core/functions/users.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/core/init.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/core/database/connect.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/register.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/widgets/login.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/head.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/header.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/css/style1.css",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/aside.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/index.html",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/overall/header.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/overall/footer.php",
+		"/C/Users/DrewDesktop/head.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/menu.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/login",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/head",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/aside",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/includes/footer.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/register",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/head.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/character.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/class_character.php",
+		"/C/Users/DrewDesktop/Dropbox/Fall 2014/CIS 341/game/sftp-config.json",
+		"/C/Users/DrewDesktop/Desktop/phaos/config_settings.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/aup.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/player_info.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/inn.php",
+		"/C/Users/DrewDesktop/Desktop/phaos/combat.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu",
+			"FFFFFF",
+			";\n",
+			">\";",
+			"'));\n",
+			");\n",
+			"}",
+			"params"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 148.0
+	},
+	"project": "cis426.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

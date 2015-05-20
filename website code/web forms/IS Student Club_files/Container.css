@@ -1,0 +1,201 @@
+﻿table.Reference
+{
+    border:1px solid Gray;
+    border-collapse:collapse;
+}
+
+table.Reference th
+{
+    /*background-color:#e5eecc;*/
+    background-image:url(Images/BarGreen.png);
+    background-position:center;
+    background-repeat:repeat-x;
+    border:1px solid Gray;
+    padding:3px;
+}
+
+table.Reference td 
+{
+    /*background-color:White;*/
+    border:1px solid Gray;
+    padding:3px;
+}
+.ConWhite
+{
+    margin-bottom:10px;
+}
+
+.ConGreen
+{
+    background-color:#CCCC99;
+    padding:8px;
+}
+.ConDarkGreen
+{
+    background-color:#206C11;
+    padding:8px;
+}
+.ConOrange
+{
+    background-color:#FFC68C;
+    padding:8px;
+}
+.ConDarkOrange
+{
+    background-color:#CC6601;
+    padding:8px;
+}
+.ConBlue
+{
+    background-color:#16487B;
+    padding:8px;
+}
+
+.ConDarkBlue
+{
+    background-color:#1A4B71;
+    padding:8px;
+}
+.ConLightGray
+{
+    background-color:#EEEEEE;
+    padding:8px;
+}
+
+.ConGray
+{
+    background-color:#CCCCCC;
+    padding:8px;
+}
+.ConMidGray
+{
+    background-color:#999999;
+    padding:8px;
+}
+.ConDarkGray
+{
+    background-color:#333333;
+    padding:8px;
+}
+
+.ConDarkRed
+{
+    background-color:#880000;
+    padding:8px;
+}
+
+.ConDarkBrown
+{
+    background-color:#5B2E00;
+    padding:8px;
+}
+.ConBorderDarkRed
+{
+    border:#990000 2px solid;
+    padding:8px;
+}
+.ConBorderMidGray
+{
+    border:#999999 2px solid;
+    padding:8px;
+}
+.ConBorderDarkGray
+{
+    border:#333333 2px solid;
+    padding:8px;
+}
+.ConBorderBrown
+{
+    border:#D6B87E 2px solid;
+    padding:8px;
+}
+
+#ColConBrown
+{
+    border-top:#8C6232 1px solid;
+    text-align:left;
+}
+.ColBrownLeft
+{
+    float:left;
+	padding:10px 4px 10px 0px;
+	border-right:#8C6232 1px solid;
+    
+}
+
+.ColBrownRight
+{
+    float:right;
+    padding:10px 0px 10px 4px;
+    width:auto;
+}
+.BoxGray
+{
+    border-top:#D4D8DD solid 3px;
+    border-right:#D4D8DD solid 1px;
+}
+
+.BoxGray, .BoxGold ul
+{
+    margin-top:0px;
+    padding-left: 1em;
+    list-style-type: square;
+}
+.BoxGray, .BoxGold li
+{
+    color:#555555;
+    font-size: small; 
+    text-decoration:none;
+    padding-bottom:2px;
+    padding-top:2px;
+}
+.BoxGray, .BoxGold a
+{
+    color:#555555;
+    font-size: small;
+}
+.BoxGray, .BoxGold a:hover
+{
+    border-bottom:#777777 solid 1;
+}
+
+.BoxGold
+{
+    background-image:url(Images/BoxGold.png);
+    background-repeat:no-repeat;
+    background-position:top;
+}
+
+.BoxSquare
+{
+    width:240px;
+    height:280px;
+    background-image:url(Images/BoxSquare.png);
+    background-repeat:no-repeat;
+    background-position:top;
+    padding:8px 2px 2px 18px;
+}
+
+.FourCol
+{
+    float:left; 
+    width:170px; 
+    height:360px; 
+    margin-top:10px;
+    margin-bottom:10px;
+    padding:2px;
+    /*background-color: #bbbbbb;*/
+    border: #bbbbbb solid 1px;
+}
+
+.BorDarkOrange
+{
+
+    border-bottom:#CC6601 1px solid;
+    margin-bottom:15px;
+}
+.BorMidGray
+{
+    border-bottom:#999999 1px solid;
+    margin-bottom:15px;
+}
